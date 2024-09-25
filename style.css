@@ -1,0 +1,31 @@
+body{background-color: #141414;}
+
+.total_card{
+background-color: #1f1f1f;
+position: absolute;
+top:15%;
+left: 33%;
+right: 33%;
+width: 33%;
+color: white;
+text-align: center;
+border-radius: 15px;}
+
+.total_buttons{display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 25px 10px 25px;
+}
+button
+{padding-top: 11px;
+padding-bottom: 11px;
+border: 0px;
+border-radius: 12px;
+margin-bottom: 10px;
+color: white;
+background-color: #333333;}
+button:hover {
+    background-color: #c4f82a;
+    color: rgb(0, 0, 0);
+  }
+  img{border-radius: 100%;}
